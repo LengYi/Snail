@@ -1,0 +1,44 @@
+PODS:
+  - CocoaAsyncSocket (7.4.3):
+    - CocoaAsyncSocket/All (= 7.4.3)
+  - CocoaAsyncSocket/All (7.4.3):
+    - CocoaAsyncSocket/GCD
+    - CocoaAsyncSocket/RunLoop
+  - CocoaAsyncSocket/GCD (7.4.3)
+  - CocoaAsyncSocket/RunLoop (7.4.3)
+  - CocoaLumberjack (3.2.1):
+    - CocoaLumberjack/Default (= 3.2.1)
+    - CocoaLumberjack/Extensions (= 3.2.1)
+  - CocoaLumberjack/Default (3.2.1)
+  - CocoaLumberjack/Extensions (3.2.1):
+    - CocoaLumberjack/Default
+  - DLKit/Classes/Base/DLAppInfo (0.3.5)
+  - DLKit/Classes/Base/DLNet/DLHttp (0.3.5)
+  - DLKit/Classes/Base/DLUIKitExtended/Device (0.3.5)
+  - Masonry (0.6.4)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - UMengAnalytics (4.2.4)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket (~> 7.4.2)
+  - CocoaLumberjack
+  - DLKit/Classes/Base/DLAppInfo (~> 0.3.5)
+  - DLKit/Classes/Base/DLNet/DLHttp (~> 0.3.5)
+  - DLKit/Classes/Base/DLUIKitExtended/Device (~> 0.3.5)
+  - Masonry (~> 0.6.3)
+  - SDWebImage (~> 3.7.3)
+  - UMengAnalytics
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: a18c75dca4b08723628a0bacca6e94803d90be91
+  CocoaLumberjack: 2800c03334042fe80589423c8d80e582dcaec482
+  DLKit: 3736866ec1b6184c5b773f89e94c298532221314
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  UMengAnalytics: ef8d45f94c0e5771dc364cf6a5731d9d3b101da2
+
+PODFILE CHECKSUM: c1d1fa55754fb91c1edaed6f0af29a787158cf4a
+
+COCOAPODS: 1.1.1
